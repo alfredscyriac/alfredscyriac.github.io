@@ -49,7 +49,12 @@ body{
     padding-left: 50px;
     box-sizing: border-box;
 }
-
+.About{
+    padding-bottom: 20px;
+}
+.Experience{
+    padding-bottom: 20px;
+}
 .name {
     font-family: sans-serif;
     color: white;
@@ -121,6 +126,7 @@ h2{
 }
 .Education{
     background-color: #EAEAEA;
+    padding-bottom: 20px;
 }
 .projects{
     background-color: #EAEAEA;
@@ -145,6 +151,7 @@ hr{
     width: 100%;
     flex-wrap: wrap;
     gap: 20px;
+    padding-bottom: 20px;
 }
 .card {
     width: 300px;
